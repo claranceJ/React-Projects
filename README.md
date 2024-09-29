@@ -7,3 +7,4 @@ A collection of React-based web applications showcasing various functionalities 
 Projects:
 
     Todo List: A basic todo list application with features like adding, editing, and deleting tasks.
+    SandyNormous: A Gym app with features like motivations from an API
